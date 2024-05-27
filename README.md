@@ -1,3 +1,5 @@
+Running Application port: http://localhost:8080/
+
 # React-OpenWeatherAPI
 React app using data from https://openweathermap.org/api
 
